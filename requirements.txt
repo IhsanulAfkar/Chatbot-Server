@@ -1,6 +1,5 @@
 tensorflow
 numpy
-pickle
 flask
 pandas
 nlp-id
