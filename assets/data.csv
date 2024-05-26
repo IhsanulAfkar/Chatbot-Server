@@ -1,0 +1,800 @@
+tag,pattern
+greeting,hi
+greeting,hei
+greeting,halo
+greeting,selamat pagi
+greeting,selamat siang
+greeting,selamat sore
+greeting,halo min mau tanya
+greeting,min mau top up sudah buka belum
+greeting,udah bisa topup min?
+greeting,halo kak
+greeting,"kak, mau topup"
+greeting,"min, mau topup ready kah?"
+greeting,hai min
+greeting,ini dengan adeptushop?
+greeting,"permisi, ini benar dengan yang ig nya adeptushop?"
+greeting,ini benar kontaknya adeptushop?
+greeting,apa benar ini adeptushop?
+greeting,yang adeptushop bukan?
+greeting,ini yang toko topup bukan?
+greeting,ini dengan adeptushop ya?
+order,ini cara ordernya gimana min
+order,lewat uid atau apa ya?
+order,lewat id atau apa ya?
+order,pake id tah min??
+order,via login apa uid bang?
+order,minta format ordernya min
+order,cara belinya gimana ya?
+order,jadinya yang itu deh
+order,formatnya gimana
+order,mau deh yang itu
+order,boleh deh yang itu
+order,"mau beli min, gimana formatnya"
+payment,"min, tf nya kemana?"
+payment,tf nya gimana ya bang
+payment,bayarnya kemana ya?
+payment,bayar kemana bang
+payment,lewat apa bayarnya?
+payment,bisa qris nggak?
+payment,kemana tf nya?
+payment,bisa pake mandiri?
+payment,minta no tf nya
+genshin.list,boleh pricelist untuk genshin?
+genshin.list,minta list harga genshin dong kak
+genshin.list,"minta listnya min, yang genshin"
+genshin.list,pricelist nya genshin dong
+genshin.list,list genshin min
+genshin.list,genshin list
+genshin.list,genshin
+genshin.list,daftar harga genshin kak
+genshin.list,boleh liat harga genshinnya kak?
+genshin.list,daftar genshin
+genshin.list,minta daftar harga genshin min
+genshin.list,"pagi, mau cek daftar harga yg genshin"
+genshin.list,cek pricelist genshin
+genshin.list,cek daftar harga genshin
+genshin.product.welkin,mau tanya harga blessing genshin
+genshin.product.welkin,blessing
+genshin.product.welkin,welkin
+genshin.product.welkin,blessing dong kak
+genshin.product.welkin,monthly genshin
+genshin.product.welkin,welkin berapa ya
+genshin.product.welkin,monthly genshin berapa ya
+genshin.product.welkin,boleh tanya welkin berapa?
+genshin.product.welkin,boleh tanya monthly genshin berapa?
+genshin.product.welkin,mau top up welkin bisa?
+genshin.product.welkin,mau top up monthly genshin min
+genshin.product.welkin,"min, mau beli welkin"
+genshin.product.welkin,min beli welkin bisa?
+genshin.product.welkin,min beli monthly genshin
+genshin.product.welkin,welkin berapaan sekarang?
+genshin.product.welkin,monthly genshin berapaan sekarang?
+genshin.product.welkin,welkin nya ready nggak?
+genshin.product.welkin,monthly genshin nya ready nggak?
+genshin.product.welkin,welkin dong min
+genshin.product.welkin,blessing boleh min
+genshin.product.welkin,blessing bang
+genshin.product.welkin,"permisi, boleh topup blessing?"
+genshin.product.welkin,"permisi, boleh topup welkin?"
+genshin.product.300,mau tanya harga gc 300
+genshin.product.300,300 gc
+genshin.product.300,gc yg 300
+genshin.product.300,300 gc dong kak
+genshin.product.300,gc 300 berapa ya
+genshin.product.300,boleh tanya 300 gc berapa?
+genshin.product.300,mau topup 300 gc bisa?
+genshin.product.300,"min, mau beli 300 gc"
+genshin.product.300,300 gc berapaan bang
+genshin.product.300,yang 300 gc boleh deh
+genshin.product.300,gc 300 ready min?
+genshin.product.300,topup genshin 300 bisa ga bang
+genshin.product.300,300 genshin dong min
+genshin.product.300,"min, beli 300 gc bisa?"
+genshin.product.300,"permisi, boleh beli gc 300 ada min?"
+genshin.product.300,"permisi, mau topup gc 300 ada min?"
+genshin.product.980,mau tanya harga gc 980
+genshin.product.980,980 gc
+genshin.product.980,gc yg 980
+genshin.product.980,980 gc dong kak
+genshin.product.980,gc 980 berapa ya
+genshin.product.980,boleh tanya 980 gc berapa?
+genshin.product.980,mau topup 980 gc bisa?
+genshin.product.980,"min, mau beli 980 gc"
+genshin.product.980,980 gc berapaan bang
+genshin.product.980,yang 980 gc boleh deh
+genshin.product.980,gc 980 ready min?
+genshin.product.980,topup genshin 980 bisa ga bang
+genshin.product.980,980 genshin dong min
+genshin.product.980,"min, beli 980 gc bisa?"
+genshin.product.980,"permisi, boleh beli gc 980 ada min?"
+genshin.product.980,"permisi, mau topup gc 980 ada min?"
+genshin.product.1980,mau tanya harga gc 1980
+genshin.product.1980,1980 gc
+genshin.product.1980,gc yg 1980
+genshin.product.1980,1980 gc dong kak
+genshin.product.1980,gc 1980 berapa ya
+genshin.product.1980,boleh tanya 1980 gc berapa?
+genshin.product.1980,mau topup 1980 gc bisa?
+genshin.product.1980,"min, mau beli 1980 gc"
+genshin.product.1980,1980 gc berapaan bang
+genshin.product.1980,yang 1980 gc boleh deh
+genshin.product.1980,gc 1980 ready min?
+genshin.product.1980,topup genshin 1980 bisa ga bang
+genshin.product.1980,1980 genshin dong min
+genshin.product.1980,"min, beli 1980 gc bisa?"
+genshin.product.1980,"permisi, boleh beli gc 1980 ada min?"
+genshin.product.1980,"permisi, mau topup gc 1980 ada min?"
+genshin.product.3280,mau tanya harga gc 3280
+genshin.product.3280,3280 gc
+genshin.product.3280,gc yg 3280
+genshin.product.3280,3280 gc dong kak
+genshin.product.3280,gc 3280 berapa ya
+genshin.product.3280,boleh tanya 3280 gc berapa?
+genshin.product.3280,mau topup 3280 gc bisa?
+genshin.product.3280,"min, mau beli 3280 gc"
+genshin.product.3280,3280 gc berapaan bang
+genshin.product.3280,yang 3280 gc boleh deh
+genshin.product.3280,gc 3280 ready min?
+genshin.product.3280,topup genshin 3280 bisa ga bang
+genshin.product.3280,3280 genshin dong min
+genshin.product.3280,"min, beli 3280 gc bisa?"
+genshin.product.3280,"permisi, boleh beli gc 3280 ada min?"
+genshin.product.3280,"permisi, mau topup gc 3280 ada min?"
+genshin.product.6480,mau tanya harga gc 6480
+genshin.product.6480,6480 gc
+genshin.product.6480,gc yg 6480
+genshin.product.6480,6480 gc dong kak
+genshin.product.6480,gc 6480 berapa ya
+genshin.product.6480,boleh tanya 6480 gc berapa?
+genshin.product.6480,mau topup 6480 gc bisa?
+genshin.product.6480,"min, mau beli 6480 gc"
+genshin.product.6480,6480 gc berapaan bang
+genshin.product.6480,yang 6480 gc boleh deh
+genshin.product.6480,gc 6480 ready min?
+genshin.product.6480,topup genshin 6480 bisa ga bang
+genshin.product.6480,6480 genshin dong min
+genshin.product.6480,"min, beli 6480 gc bisa?"
+genshin.product.6480,"permisi, boleh beli gc 6480 ada min?"
+genshin.product.6480,"permisi, mau topup gc 6480 ada min?"
+genshin.product.hymnn,mau tanya harga gnostic hymnn
+genshin.product.hymnn,gnostic hymnn
+genshin.product.hymnn,hymnn
+genshin.product.hymnn,gnostic hymnn dong kak
+genshin.product.hymnn,gnostic hymnn berapa ya
+genshin.product.hymnn,hymnn berapa ya
+genshin.product.hymnn,boleh tanya hymnn berapa?
+genshin.product.hymnn,mau topup gnostic hymnn bisa?
+genshin.product.hymnn,"min, mau beli gnostic hymnn"
+genshin.product.hymnn,hymnn berapaan bang
+genshin.product.hymnn,yang hymnn boleh deh
+genshin.product.hymnn,gnostic hymnn ready min?
+genshin.product.hymnn,topup genshin hymnn bisa ga bang
+genshin.product.hymnn,gnostic hymnn dong min
+genshin.product.hymnn,"min, beli hymn bisa?"
+genshin.product.hymnn,"permisi, boleh beli hymn ada min?"
+genshin.product.hymnn,"permisi, mau topup hymnn ada min?"
+genshin.product.chorus,mau tanya harga gnostic chorus
+genshin.product.chorus,gnostic chorus
+genshin.product.chorus,chorus
+genshin.product.chorus,gnostic chorus dong kak
+genshin.product.chorus,gnostic chorus berapa ya
+genshin.product.chorus,chorus berapa ya
+genshin.product.chorus,boleh tanya chorus berapa?
+genshin.product.chorus,mau topup gnostic chorus bisa?
+genshin.product.chorus,"min, mau beli gnostic chorus"
+genshin.product.chorus,chorus berapaan bang
+genshin.product.chorus,yang chorus boleh deh
+genshin.product.chorus,gnostic chorus ready min?
+genshin.product.chorus,topup genshin chorus bisa ga bang
+genshin.product.chorus,gnostic chorus dong min
+genshin.product.chorus,"min, beli chorus bisa?"
+genshin.product.chorus,"permisi, boleh beli chorus ada min?"
+genshin.product.chorus,"permisi, mau topup chorus ada min?"
+genshin.jockey,min mau gb spiral abyss
+genshin.jockey,gb spiral bang
+genshin.jockey,spiral abyss
+genshin.jockey,joki spiral
+genshin.jockey,joki abyss
+genshin.jockey,"min, bisa joki abyss"
+genshin.jockey,joki abyss min
+genshin.jockey,min mau joki abyss
+genshin.jockey,bang joki spiral
+genshin.jockey,joki genshin dong min
+genshin.jockey,spiral abyss ampe 12 sabi ga min
+hsr.list,boleh pricelist untuk hsr?
+hsr.list,minta list harga hsr dong kak
+hsr.list,"minta listnya min, yang hsr"
+hsr.list,pricelist nya hsr dong
+hsr.list,list hsr min
+hsr.list,hsr list
+hsr.list,daftar harga hsr kak
+hsr.list,boleh liat harga hsrnya kak?
+hsr.list,daftar hsr
+hsr.list,minta daftar harga hsr min
+hsr.list,"pagi, mau cek daftar harga yg hsr"
+hsr.list,cek pricelist hsr
+hsr.list,cek daftar harga hsr
+hsr.product.express,mau tanya harga express hsr
+hsr.product.express,express
+hsr.product.express,express pass
+hsr.product.express,express dong kak
+hsr.product.express,monthly hsr
+hsr.product.express,express berapa ya
+hsr.product.express,monthly hsr berapa ya
+hsr.product.express,boleh tanya express berapa?
+hsr.product.express,boleh tanya monthly hsr berapa?
+hsr.product.express,mau top up express bisa?
+hsr.product.express,mau top up monthly hsr min
+hsr.product.express,"min, mau beli express"
+hsr.product.express,min beli express bisa?
+hsr.product.express,min beli monthly hsr
+hsr.product.express,express berapaan sekarang?
+hsr.product.express,monthly hsr berapaan sekarang?
+hsr.product.express,express nya ready nggak?
+hsr.product.express,monthly hsr nya ready nggak?
+hsr.product.express,express dong min
+hsr.product.express,express boleh min
+hsr.product.express,express bang
+hsr.product.express,"permisi, boleh topup express?"
+hsr.product.express,"permisi, boleh topup welkin?"
+hsr.product.300,mau tanya harga oc 300
+hsr.product.300,300 oc
+hsr.product.300,oc yg 300
+hsr.product.300,300 oc dong kak
+hsr.product.300,oc 300 berapa ya
+hsr.product.300,boleh tanya 300 oc berapa?
+hsr.product.300,mau topup 300 oc bisa?
+hsr.product.300,"min, mau beli 300 oc"
+hsr.product.300,300 oc berapaan bang
+hsr.product.300,yang 300 oc boleh deh
+hsr.product.300,oc 300 ready min?
+hsr.product.300,topup hsr 300 bisa ga bang
+hsr.product.300,300 hsr dong min
+hsr.product.300,"min, beli 300 oc bisa?"
+hsr.product.300,"permisi, boleh beli oc 300 ada min?"
+hsr.product.300,"permisi, mau topup oc 300 ada min?"
+hsr.product.980,mau tanya harga oc 980
+hsr.product.980,980 oc
+hsr.product.980,oc yg 980
+hsr.product.980,980 oc dong kak
+hsr.product.980,oc 980 berapa ya
+hsr.product.980,boleh tanya 980 oc berapa?
+hsr.product.980,mau topup 980 oc bisa?
+hsr.product.980,"min, mau beli 980 oc"
+hsr.product.980,980 oc berapaan bang
+hsr.product.980,yang 980 oc boleh deh
+hsr.product.980,oc 980 ready min?
+hsr.product.980,topup hsr 980 bisa ga bang
+hsr.product.980,980 hsr dong min
+hsr.product.980,"min, beli 980 oc bisa?"
+hsr.product.980,"permisi, boleh beli oc 980 ada min?"
+hsr.product.980,"permisi, mau topup oc 980 ada min?"
+hsr.product.1980,mau tanya harga oc 1980
+hsr.product.1980,1980 oc
+hsr.product.1980,oc yg 1980
+hsr.product.1980,1980 oc dong kak
+hsr.product.1980,oc 1980 berapa ya
+hsr.product.1980,boleh tanya 1980 oc berapa?
+hsr.product.1980,mau topup 1980 oc bisa?
+hsr.product.1980,"min, mau beli 1980 oc"
+hsr.product.1980,1980 oc berapaan bang
+hsr.product.1980,yang 1980 oc boleh deh
+hsr.product.1980,oc 1980 ready min?
+hsr.product.1980,topup hsr 1980 bisa ga bang
+hsr.product.1980,1980 hsr dong min
+hsr.product.1980,"min, beli 1980 oc bisa?"
+hsr.product.1980,"permisi, boleh beli oc 1980 ada min?"
+hsr.product.1980,"permisi, mau topup oc 1980 ada min?"
+hsr.product.3280,mau tanya harga oc 3280
+hsr.product.3280,3280 oc
+hsr.product.3280,oc yg 3280
+hsr.product.3280,3280 oc dong kak
+hsr.product.3280,oc 3280 berapa ya
+hsr.product.3280,boleh tanya 3280 oc berapa?
+hsr.product.3280,mau topup 3280 oc bisa?
+hsr.product.3280,"min, mau beli 3280 oc"
+hsr.product.3280,3280 oc berapaan bang
+hsr.product.3280,yang 3280 oc boleh deh
+hsr.product.3280,oc 3280 ready min?
+hsr.product.3280,topup hsr 3280 bisa ga bang
+hsr.product.3280,3280 hsr dong min
+hsr.product.3280,"min, beli 3280 oc bisa?"
+hsr.product.3280,"permisi, boleh beli oc 3280 ada min?"
+hsr.product.3280,"permisi, mau topup oc 3280 ada min?"
+hsr.product.6480,mau tanya harga oc 6480
+hsr.product.6480,6480 oc
+hsr.product.6480,oc yg 6480
+hsr.product.6480,6480 oc dong kak
+hsr.product.6480,oc 6480 berapa ya
+hsr.product.6480,boleh tanya 6480 oc berapa?
+hsr.product.6480,mau topup 6480 oc bisa?
+hsr.product.6480,"min, mau beli 6480 oc"
+hsr.product.6480,6480 oc berapaan bang
+hsr.product.6480,yang 6480 oc boleh deh
+hsr.product.6480,oc 6480 ready min?
+hsr.product.6480,topup hsr 6480 bisa ga bang
+hsr.product.6480,6480 hsr dong min
+hsr.product.6480,"min, beli 6480 oc bisa?"
+hsr.product.6480,"permisi, boleh beli oc 6480 ada min?"
+hsr.product.6480,"permisi, mau topup oc 6480 ada min?"
+hsr.product.glory,mau tanya harga nameless glory
+hsr.product.glory,nameless glory
+hsr.product.glory,glory
+hsr.product.glory,hsr glory
+hsr.product.glory,nameless glory dong kak
+hsr.product.glory,nameless glory berapa ya
+hsr.product.glory,hsr glory berapa ya
+hsr.product.glory,boleh tanya glory berapa?
+hsr.product.glory,mau topup nameless glory bisa?
+hsr.product.glory,"min, mau beli nameless glory"
+hsr.product.glory,glory berapaan bang
+hsr.product.glory,yang glory boleh deh
+hsr.product.glory,nameless glory ready min?
+hsr.product.glory,topup hsr glory bisa ga bang
+hsr.product.glory,nameless glory dong min
+hsr.product.glory,"min, beli hsr glory bisa?"
+hsr.product.glory,"permisi, boleh beli hsr glory ada min?"
+hsr.product.glory,"permisi, mau topup glory hsr ada min?"
+hsr.product.medal,mau tanya harga nameless medal
+hsr.product.medal,nameless medal
+hsr.product.medal,medal
+hsr.product.medal,hsr medal
+hsr.product.medal,nameless medal dong kak
+hsr.product.medal,nameless medal berapa ya
+hsr.product.medal,hsr medal berapa ya
+hsr.product.medal,boleh tanya medal berapa?
+hsr.product.medal,mau topup nameless medal bisa?
+hsr.product.medal,"min, mau beli nameless medal"
+hsr.product.medal,hsr medal berapaan bang
+hsr.product.medal,yang medal boleh deh
+hsr.product.medal,nameless medal ready min?
+hsr.product.medal,topup hsr medal bisa ga bang
+hsr.product.medal,nameless medal dong min
+hsr.product.medal,"min, beli hsr medal bisa?"
+hsr.product.medal,"permisi, boleh beli hsr medal ada min?"
+hsr.product.medal,"permisi, mau topup medal hsr ada min?"
+ml.list,min mau top up mobile legends
+ml.list,mobile lengends
+ml.list,"bang, order DM MLBB bisa?"
+ml.list,"mau topup dm ml, apa ada pricelist nya?"
+ml.list,bisa top up dm ml ready nggak
+ml.list,dm ml apa aja yang ready?
+ml.list,boleh pricelist untuk ml?
+ml.list,minta list harga ml dong kak
+ml.list,"minta listnya min, yang ml"
+ml.list,pricelist nya ml dong
+ml.list,list ml min
+ml.list,ml list
+ml.list,daftar harga ml kak
+ml.list,boleh liat harga mlnya kak?
+ml.list,daftar ml
+ml.list,minta daftar harga ml min
+ml.list,"pagi, mau cek daftar harga yg ml"
+ml.list,cek pricelist ml
+ml.list,cek daftar harga ml
+ml.list,mau topup ml
+ml.product.weekly,mau tanya harga weekly ml
+ml.product.weekly,weekly
+ml.product.weekly,weekly dong kak
+ml.product.weekly,weekly ml
+ml.product.weekly,welkin berapa ya
+ml.product.weekly,weekly ml berapa ya
+ml.product.weekly,boleh tanya weekly berapa?
+ml.product.weekly,boleh tanya weekly ml berapa?
+ml.product.weekly,mau top up weekly bisa?
+ml.product.weekly,mau top up weekly ml min
+ml.product.weekly,"min, mau beli weekly"
+ml.product.weekly,min beli weekly bisa?
+ml.product.weekly,min beli weekly ml
+ml.product.weekly,weekly berapaan sekarang?
+ml.product.weekly,weekly ml berapaan sekarang?
+ml.product.weekly,weekly nya ready nggak?
+ml.product.weekly,weekly ml nya ready nggak?
+ml.product.weekly,weekly dong min
+ml.product.weekly,weekly boleh min
+ml.product.weekly,weekly bang
+ml.product.weekly,"permisi, boleh topup weekly?"
+ml.product.weekly,"permisi, boleh topup weekly?"
+ml.product.86,"bang, topup 86 dm"
+ml.product.86,mau tanya harga dm 86
+ml.product.86,86 dm
+ml.product.86,86 dm ml
+ml.product.86,dm ml 86 min
+ml.product.86,dm ml 86
+ml.product.86,topup dm ml 86
+ml.product.86,86 dm dong kak
+ml.product.86,dm 86 berapa ya
+ml.product.86,boleh tanya 86 dm berapa?
+ml.product.86,mau topup 86 dm bisa?
+ml.product.86,"min, mau beli 86 dm"
+ml.product.86,86 dm berapaan bang
+ml.product.86,dm 86 ready min?
+ml.product.86,"min, beli 86 dm bisa?"
+ml.product.86,"permisi, topup dm ml 86 ada min?"
+ml.product.86,"permisi, mau topup dm 86 ada min?"
+ml.product.172,"bang, topup 172 dm"
+ml.product.172,mau tanya harga dm 172
+ml.product.172,172 dm
+ml.product.172,172 dm ml
+ml.product.172,dm ml 172 min
+ml.product.172,dm ml 172
+ml.product.172,topup dm ml 172
+ml.product.172,172 dm dong kak
+ml.product.172,dm 172 berapa ya
+ml.product.172,boleh tanya 172 dm berapa?
+ml.product.172,mau topup 172 dm bisa?
+ml.product.172,"min, mau beli 172 dm"
+ml.product.172,172 dm berapaan bang
+ml.product.172,dm 172 ready min?
+ml.product.172,"min, beli 172 dm bisa?"
+ml.product.172,"permisi, topup dm ml 172 ada min?"
+ml.product.172,"permisi, mau topup dm 172 ada min?"
+ml.product.257,"bang, topup 257 dm"
+ml.product.257,mau tanya harga dm 257
+ml.product.257,257 dm
+ml.product.257,257 dm ml
+ml.product.257,dm ml 257 min
+ml.product.257,dm ml 257
+ml.product.257,topup dm ml 257
+ml.product.257,257 dm dong kak
+ml.product.257,dm 257 berapa ya
+ml.product.257,boleh tanya 257 dm berapa?
+ml.product.257,mau topup 257 dm bisa?
+ml.product.257,"min, mau beli 257 dm"
+ml.product.257,257 dm berapaan bang
+ml.product.257,dm 257 ready min?
+ml.product.257,"min, beli 257 dm bisa?"
+ml.product.257,"permisi, topup dm ml 257 ada min?"
+ml.product.257,"permisi, mau topup dm 257 ada min?"
+ml.product.344,"bang, topup 344 dm"
+ml.product.344,mau tanya harga dm 344
+ml.product.344,344 dm
+ml.product.344,344 dm ml
+ml.product.344,dm ml 344 min
+ml.product.344,dm ml 344
+ml.product.344,topup dm ml 344
+ml.product.344,344 dm dong kak
+ml.product.344,dm 344 berapa ya
+ml.product.344,boleh tanya 344 dm berapa?
+ml.product.344,mau topup 344 dm bisa?
+ml.product.344,"min, mau beli 344 dm"
+ml.product.344,344 dm berapaan bang
+ml.product.344,dm 344 ready min?
+ml.product.344,"min, beli 344 dm bisa?"
+ml.product.344,"permisi, topup dm ml 344 ada min?"
+ml.product.344,"permisi, mau topup dm 344 ada min?"
+ml.product.429,"bang, topup 429 dm"
+ml.product.429,mau tanya harga dm 429
+ml.product.429,429 dm
+ml.product.429,429 dm ml
+ml.product.429,dm ml 429 min
+ml.product.429,dm ml 429
+ml.product.429,topup dm ml 429
+ml.product.429,429 dm dong kak
+ml.product.429,dm 429 berapa ya
+ml.product.429,boleh tanya 429 dm berapa?
+ml.product.429,mau topup 429 dm bisa?
+ml.product.429,"min, mau beli 429 dm"
+ml.product.429,429 dm berapaan bang
+ml.product.429,dm 429 ready min?
+ml.product.429,"min, beli 429 dm bisa?"
+ml.product.429,"permisi, topup dm ml 429 ada min?"
+ml.product.429,"permisi, mau topup dm 429 ada min?"
+ml.product.514,"bang, topup 514 dm"
+ml.product.514,mau tanya harga dm 514
+ml.product.514,514 dm
+ml.product.514,514 dm ml
+ml.product.514,dm ml 514 min
+ml.product.514,dm ml 514
+ml.product.514,topup dm ml 514
+ml.product.514,514 dm dong kak
+ml.product.514,dm 514 berapa ya
+ml.product.514,boleh tanya 514 dm berapa?
+ml.product.514,mau topup 514 dm bisa?
+ml.product.514,"min, mau beli 514 dm"
+ml.product.514,514 dm berapaan bang
+ml.product.514,dm 514 ready min?
+ml.product.514,"min, beli 514 dm bisa?"
+ml.product.514,"permisi, topup dm ml 514 ada min?"
+ml.product.514,"permisi, mau topup dm 514 ada min?"
+ml.product.600,"bang, topup 600 dm"
+ml.product.600,mau tanya harga dm 600
+ml.product.600,600 dm
+ml.product.600,600 dm ml
+ml.product.600,dm ml 600 min
+ml.product.600,dm ml 600
+ml.product.600,topup dm ml 600
+ml.product.600,600 dm dong kak
+ml.product.600,dm 600 berapa ya
+ml.product.600,boleh tanya 600 dm berapa?
+ml.product.600,mau topup 600 dm bisa?
+ml.product.600,"min, mau beli 600 dm"
+ml.product.600,600 dm berapaan bang
+ml.product.600,dm 600 ready min?
+ml.product.600,"min, beli 600 dm bisa?"
+ml.product.600,"permisi, topup dm ml 600 ada min?"
+ml.product.600,"permisi, mau topup dm 600 ada min?"
+ml.product.706,"bang, topup 706 dm"
+ml.product.706,mau tanya harga dm 706
+ml.product.706,706 dm
+ml.product.706,706 dm ml
+ml.product.706,dm ml 706 min
+ml.product.706,dm ml 706
+ml.product.706,topup dm ml 706
+ml.product.706,706 dm dong kak
+ml.product.706,dm 706 berapa ya
+ml.product.706,boleh tanya 706 dm berapa?
+ml.product.706,mau topup 706 dm bisa?
+ml.product.706,"min, mau beli 706 dm"
+ml.product.706,706 dm berapaan bang
+ml.product.706,dm 706 ready min?
+ml.product.706,"min, beli 706 dm bisa?"
+ml.product.706,"permisi, topup dm ml 706 ada min?"
+ml.product.706,"permisi, mau topup dm 706 ada min?"
+ml.product.876,"bang, topup 876 dm"
+ml.product.876,mau tanya harga dm 876
+ml.product.876,876 dm
+ml.product.876,876 dm ml
+ml.product.876,dm ml 876 min
+ml.product.876,dm ml 876
+ml.product.876,topup dm ml 876
+ml.product.876,876 dm dong kak
+ml.product.876,dm 876 berapa ya
+ml.product.876,boleh tanya 876 dm berapa?
+ml.product.876,mau topup 876 dm bisa?
+ml.product.876,"min, mau beli 876 dm"
+ml.product.876,876 dm berapaan bang
+ml.product.876,dm 876 ready min?
+ml.product.876,"min, beli 876 dm bisa?"
+ml.product.876,"permisi, topup dm ml 876 ada min?"
+ml.product.876,"permisi, mau topup dm 876 ada min?"
+ml.product.963,"bang, topup 963 dm"
+ml.product.963,mau tanya harga dm 963
+ml.product.963,963 dm
+ml.product.963,963 dm ml
+ml.product.963,dm ml 963 min
+ml.product.963,dm ml 963
+ml.product.963,topup dm ml 963
+ml.product.963,963 dm dong kak
+ml.product.963,dm 963 berapa ya
+ml.product.963,boleh tanya 963 dm berapa?
+ml.product.963,mau topup 963 dm bisa?
+ml.product.963,"min, mau beli 963 dm"
+ml.product.963,963 dm berapaan bang
+ml.product.963,dm 963 ready min?
+ml.product.963,"min, beli 963 dm bisa?"
+ml.product.963,"permisi, topup dm ml 963 ada min?"
+ml.product.963,"permisi, mau topup dm 963 ada min?"
+ml.product.1050,"bang, topup 1050 dm"
+ml.product.1050,mau tanya harga dm 1050
+ml.product.1050,1050 dm
+ml.product.1050,1050 dm ml
+ml.product.1050,dm ml 1050 min
+ml.product.1050,dm ml 1050
+ml.product.1050,topup dm ml 1050
+ml.product.1050,1050 dm dong kak
+ml.product.1050,dm 1050 berapa ya
+ml.product.1050,boleh tanya 1050 dm berapa?
+ml.product.1050,mau topup 1050 dm bisa?
+ml.product.1050,"min, mau beli 1050 dm"
+ml.product.1050,1050 dm berapaan bang
+ml.product.1050,dm 1050 ready min?
+ml.product.1050,"min, beli 1050 dm bisa?"
+ml.product.1050,"permisi, topup dm ml 1050 ada min?"
+ml.product.1050,"permisi, mau topup dm 1050 ada min?"
+ml.product.1220,"bang, topup 1220 dm"
+ml.product.1220,mau tanya harga dm 1220
+ml.product.1220,1220 dm
+ml.product.1220,1220 dm ml
+ml.product.1220,dm ml 1220 min
+ml.product.1220,dm ml 1220
+ml.product.1220,topup dm ml 1220
+ml.product.1220,1220 dm dong kak
+ml.product.1220,dm 1220 berapa ya
+ml.product.1220,boleh tanya 1220 dm berapa?
+ml.product.1220,mau topup 1220 dm bisa?
+ml.product.1220,"min, mau beli 1220 dm"
+ml.product.1220,1220 dm berapaan bang
+ml.product.1220,dm 1220 ready min?
+ml.product.1220,"min, beli 1220 dm bisa?"
+ml.product.1220,"permisi, topup dm ml 1220 ada min?"
+ml.product.1220,"permisi, mau topup dm 1220 ada min?"
+ml.product.1412,"bang, topup 1412 dm"
+ml.product.1412,mau tanya harga dm 1412
+ml.product.1412,1412 dm
+ml.product.1412,1412 dm ml
+ml.product.1412,dm ml 1412 min
+ml.product.1412,dm ml 1412
+ml.product.1412,topup dm ml 1412
+ml.product.1412,1412 dm dong kak
+ml.product.1412,dm 1412 berapa ya
+ml.product.1412,boleh tanya 1412 dm berapa?
+ml.product.1412,mau topup 1412 dm bisa?
+ml.product.1412,"min, mau beli 1412 dm"
+ml.product.1412,1412 dm berapaan bang
+ml.product.1412,dm 1412 ready min?
+ml.product.1412,"min, beli 1412 dm bisa?"
+ml.product.1412,"permisi, topup dm ml 1412 ada min?"
+ml.product.1412,"permisi, mau topup dm 1412 ada min?"
+ml.product.1669,"bang, topup 1669 dm"
+ml.product.1669,mau tanya harga dm 1669
+ml.product.1669,1669 dm
+ml.product.1669,1669 dm ml
+ml.product.1669,dm ml 1669 min
+ml.product.1669,dm ml 1669
+ml.product.1669,topup dm ml 1669
+ml.product.1669,1669 dm dong kak
+ml.product.1669,dm 1669 berapa ya
+ml.product.1669,boleh tanya 1669 dm berapa?
+ml.product.1669,mau topup 1669 dm bisa?
+ml.product.1669,"min, mau beli 1669 dm"
+ml.product.1669,1669 dm berapaan bang
+ml.product.1669,dm 1669 ready min?
+ml.product.1669,"min, beli 1669 dm bisa?"
+ml.product.1669,"permisi, topup dm ml 1669 ada min?"
+ml.product.1669,"permisi, mau topup dm 1669 ada min?"
+ml.product.2195,"bang, topup 2195 dm"
+ml.product.2195,mau tanya harga dm 2195
+ml.product.2195,2195 dm
+ml.product.2195,2195 dm ml
+ml.product.2195,dm ml 2195 min
+ml.product.2195,dm ml 2195
+ml.product.2195,topup dm ml 2195
+ml.product.2195,2195 dm dong kak
+ml.product.2195,dm 2195 berapa ya
+ml.product.2195,boleh tanya 2195 dm berapa?
+ml.product.2195,mau topup 2195 dm bisa?
+ml.product.2195,"min, mau beli 2195 dm"
+ml.product.2195,2195 dm berapaan bang
+ml.product.2195,dm 2195 ready min?
+ml.product.2195,"min, beli 2195 dm bisa?"
+ml.product.2195,"permisi, topup dm ml 2195 ada min?"
+ml.product.2195,"permisi, mau topup dm 2195 ada min?"
+ml.product.2901,"bang, topup 2901 dm"
+ml.product.2901,mau tanya harga dm 2901
+ml.product.2901,2901 dm
+ml.product.2901,2901 dm ml
+ml.product.2901,dm ml 2901 min
+ml.product.2901,dm ml 2901
+ml.product.2901,topup dm ml 2901
+ml.product.2901,2901 dm dong kak
+ml.product.2901,dm 2901 berapa ya
+ml.product.2901,boleh tanya 2901 dm berapa?
+ml.product.2901,mau topup 2901 dm bisa?
+ml.product.2901,"min, mau beli 2901 dm"
+ml.product.2901,2901 dm berapaan bang
+ml.product.2901,dm 2901 ready min?
+ml.product.2901,"min, beli 2901 dm bisa?"
+ml.product.2901,"permisi, topup dm ml 2901 ada min?"
+ml.product.2901,"permisi, mau topup dm 2901 ada min?"
+ml.product.3688,"bang, topup 3688 dm"
+ml.product.3688,mau tanya harga dm 3688
+ml.product.3688,3688 dm
+ml.product.3688,3688 dm ml
+ml.product.3688,dm ml 3688 min
+ml.product.3688,dm ml 3688
+ml.product.3688,topup dm ml 3688
+ml.product.3688,3688 dm dong kak
+ml.product.3688,dm 3688 berapa ya
+ml.product.3688,boleh tanya 3688 dm berapa?
+ml.product.3688,mau topup 3688 dm bisa?
+ml.product.3688,"min, mau beli 3688 dm"
+ml.product.3688,3688 dm berapaan bang
+ml.product.3688,dm 3688 ready min?
+ml.product.3688,"min, beli 3688 dm bisa?"
+ml.product.3688,"permisi, topup dm ml 3688 ada min?"
+ml.product.3688,"permisi, mau topup dm 3688 ada min?"
+ml.product.4394,"bang, topup 4394 dm"
+ml.product.4394,mau tanya harga dm 4394
+ml.product.4394,4394 dm
+ml.product.4394,4394 dm ml
+ml.product.4394,dm ml 4394 min
+ml.product.4394,dm ml 4394
+ml.product.4394,topup dm ml 4394
+ml.product.4394,4394 dm dong kak
+ml.product.4394,dm 4394 berapa ya
+ml.product.4394,boleh tanya 4394 dm berapa?
+ml.product.4394,mau topup 4394 dm bisa?
+ml.product.4394,"min, mau beli 4394 dm"
+ml.product.4394,4394 dm berapaan bang
+ml.product.4394,dm 4394 ready min?
+ml.product.4394,"min, beli 4394 dm bisa?"
+ml.product.4394,"permisi, topup dm ml 4394 ada min?"
+ml.product.4394,"permisi, mau topup dm 4394 ada min?"
+ml.product.5532,"bang, topup 5532 dm"
+ml.product.5532,mau tanya harga dm 5532
+ml.product.5532,5532 dm
+ml.product.5532,5532 dm ml
+ml.product.5532,dm ml 5532 min
+ml.product.5532,dm ml 5532
+ml.product.5532,topup dm ml 5532
+ml.product.5532,5532 dm dong kak
+ml.product.5532,dm 5532 berapa ya
+ml.product.5532,boleh tanya 5532 dm berapa?
+ml.product.5532,mau topup 5532 dm bisa?
+ml.product.5532,"min, mau beli 5532 dm"
+ml.product.5532,5532 dm berapaan bang
+ml.product.5532,dm 5532 ready min?
+ml.product.5532,"min, beli 5532 dm bisa?"
+ml.product.5532,"permisi, topup dm ml 5532 ada min?"
+ml.product.5532,"permisi, mau topup dm 5532 ada min?"
+ml.product.6238,"bang, topup 6238 dm"
+ml.product.6238,mau tanya harga dm 6238
+ml.product.6238,6238 dm
+ml.product.6238,6238 dm ml
+ml.product.6238,dm ml 6238 min
+ml.product.6238,dm ml 6238
+ml.product.6238,topup dm ml 6238
+ml.product.6238,6238 dm dong kak
+ml.product.6238,dm 6238 berapa ya
+ml.product.6238,boleh tanya 6238 dm berapa?
+ml.product.6238,mau topup 6238 dm bisa?
+ml.product.6238,"min, mau beli 6238 dm"
+ml.product.6238,6238 dm berapaan bang
+ml.product.6238,dm 6238 ready min?
+ml.product.6238,"min, beli 6238 dm bisa?"
+ml.product.6238,"permisi, topup dm ml 6238 ada min?"
+ml.product.6238,"permisi, mau topup dm 6238 ada min?"
+ml.product.7727,"bang, topup 7727 dm"
+ml.product.7727,mau tanya harga dm 7727
+ml.product.7727,7727 dm
+ml.product.7727,7727 dm ml
+ml.product.7727,dm ml 7727 min
+ml.product.7727,dm ml 7727
+ml.product.7727,topup dm ml 7727
+ml.product.7727,7727 dm dong kak
+ml.product.7727,dm 7727 berapa ya
+ml.product.7727,boleh tanya 7727 dm berapa?
+ml.product.7727,mau topup 7727 dm bisa?
+ml.product.7727,"min, mau beli 7727 dm"
+ml.product.7727,7727 dm berapaan bang
+ml.product.7727,dm 7727 ready min?
+ml.product.7727,"min, beli 7727 dm bisa?"
+ml.product.7727,"permisi, topup dm ml 7727 ada min?"
+ml.product.7727,"permisi, mau topup dm 7727 ada min?"
+ml.product.9288,"bang, topup 9288 dm"
+ml.product.9288,mau tanya harga dm 9288
+ml.product.9288,9288 dm
+ml.product.9288,9288 dm ml
+ml.product.9288,dm ml 9288 min
+ml.product.9288,dm ml 9288
+ml.product.9288,topup dm ml 9288
+ml.product.9288,9288 dm dong kak
+ml.product.9288,dm 9288 berapa ya
+ml.product.9288,boleh tanya 9288 dm berapa?
+ml.product.9288,mau topup 9288 dm bisa?
+ml.product.9288,"min, mau beli 9288 dm"
+ml.product.9288,9288 dm berapaan bang
+ml.product.9288,dm 9288 ready min?
+ml.product.9288,"min, beli 9288 dm bisa?"
+ml.product.9288,"permisi, topup dm ml 9288 ada min?"
+ml.product.9288,"permisi, mau topup dm 9288 ada min?"
+ml.product.12976,"bang, topup 12976 dm"
+ml.product.12976,mau tanya harga dm 12976
+ml.product.12976,12976 dm
+ml.product.12976,12976 dm ml
+ml.product.12976,dm ml 12976 min
+ml.product.12976,dm ml 12976
+ml.product.12976,topup dm ml 12976
+ml.product.12976,12976 dm dong kak
+ml.product.12976,dm 12976 berapa ya
+ml.product.12976,boleh tanya 12976 dm berapa?
+ml.product.12976,mau topup 12976 dm bisa?
+ml.product.12976,"min, mau beli 12976 dm"
+ml.product.12976,12976 dm berapaan bang
+ml.product.12976,dm 12976 ready min?
+ml.product.12976,"min, beli 12976 dm bisa?"
+ml.product.12976,"permisi, topup dm ml 12976 ada min?"
+ml.product.12976,"permisi, mau topup dm 12976 ada min?"
+appreciation,hoo oke makasih min
+appreciation,tengkyu min
+appreciation,terima kasih gan
+appreciation,makasih yaa
+appreciation,makasih banyak minn
+appreciation,makasih banyak ya
+appreciation,makasih banyak bang
+appreciation,ty min
+appreciation,makasih
+appreciation,makasih banget
+appreciation,oke makasih min

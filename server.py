@@ -5,10 +5,10 @@ import pickle
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from nltk_utils import Helper
 import pandas as pd
-tf.config.set_visible_devices([], 'GPU')
 app = Flask(__name__)
 helper = Helper()
-model = tf.keras.models.load_model('chatbot_model_py')
+model = tf.keras.models.load_model('chatbot_model.h5')
+# model = tf.keras.models.load_model('chatbot_model_py')
 slang_df = pd.read_csv('./assets/slangs.csv')
 tokenizer = pickle.load(open("assets/tokenizer.pickle", 'rb'))
 tags = pickle.load(open("assets/tags.pickle", 'rb'))
@@ -37,4 +37,5 @@ def chat():
     return jsonify({'intent': response,"confidence": float(confidence)})
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    # os.getenv("HOST","0.0.0.0")
+    app.run(debug=True, port=5000, host="0.0.0.0")
