@@ -1,0 +1,6 @@
+tensorflow=2.15
+numpy
+pickle
+flask
+pandas
+nlp-id
