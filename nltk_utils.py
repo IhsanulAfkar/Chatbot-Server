@@ -37,7 +37,8 @@ class Helper:
                 words[i] = slang_df.loc[slang_df['slang'] == word,'formal'].iloc[0]
 
         return " ".join(words)
-    def remove_punctuations(self, sentence:str) -> str:
-        return ''.join([char for char in sentence if char not in self.punctuation])
+    def remove_punctuations(self, sentence):
+        return [word for word in sentence if word not in self.punctuation]
+        # return ''.join([char for char in sentence if char not in self.punctuation])
 
         

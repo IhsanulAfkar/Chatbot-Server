@@ -14,12 +14,13 @@ tokenizer = pickle.load(open("assets/tokenizer.pickle", 'rb'))
 tags = pickle.load(open("assets/tags.pickle", 'rb'))
 
 def generate_response(text):
-    text = helper.remove_punctuations(text)
     text = helper.slang_cleaning(text, slang_df)
     text = helper.stopword_removal(text)
+    tokenize_text = helper.tokenize(text)
+    tokenize_text = helper.remove_punctuations(tokenize_text)
     # tokenize
     # tokenized_text = helper.tokenize(text)
-    sequences = tokenizer.texts_to_sequences([text])
+    sequences = tokenizer.texts_to_sequences([tokenize_text])
     vec = pad_sequences(sequences, maxlen=20)
     pred = model.predict(vec)
     y_pred = np.argmax(pred, axis=-1)
