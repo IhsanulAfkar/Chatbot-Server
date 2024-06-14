@@ -8,25 +8,21 @@ import pandas as pd
 app = Flask(__name__)
 helper = Helper()
 model = tf.keras.models.load_model('chatbot_model.h5')
-# model = tf.keras.models.load_model('chatbot_model_py')
 slang_df = pd.read_csv('./assets/slangs.csv')
 tokenizer = pickle.load(open("assets/tokenizer.pickle", 'rb'))
-tags = pickle.load(open("assets/tags.pickle", 'rb'))
+labels = pickle.load(open("assets/labels.pickle", 'rb'))
 
 def generate_response(text):
     text = helper.slang_cleaning(text, slang_df)
     text = helper.stopword_removal(text)
     tokenize_text = helper.tokenize(text)
     tokenize_text = helper.remove_punctuations(tokenize_text)
-    # tokenize
-    # tokenized_text = helper.tokenize(text)
     sequences = tokenizer.texts_to_sequences([tokenize_text])
     vec = pad_sequences(sequences, maxlen=20)
     pred = model.predict(vec)
     y_pred = np.argmax(pred, axis=-1)
     conf = np.max(pred)
-    # return y_pred
-    return tags[y_pred[0]], conf
+    return labels[y_pred[0]], conf
 
 
 @app.route('/chat', methods=['POST'])
@@ -34,9 +30,9 @@ def chat():
     input_text = request.json.get('text', '')
     print(input_text)
     response, confidence = generate_response(input_text)
-
+    with open('chatlog.txt', 'a') as file:
+        file.write(f'\n{input_text},{response},{confidence}')
     return jsonify({'intent': response,"confidence": float(confidence)})
 
 if __name__ == '__main__':
-    # os.getenv("HOST","0.0.0.0")
     app.run(debug=True, port=5000, host="0.0.0.0")

@@ -1,4 +1,4 @@
-tag,pattern
+label,pattern
 greeting,hi
 greeting,hei
 greeting,halo
@@ -22,7 +22,7 @@ greeting,ini dengan adeptushop ya?
 order,ini cara ordernya gimana min
 order,lewat uid atau apa ya?
 order,lewat id atau apa ya?
-order,pake id tah min??
+order,pake id min??
 order,via login apa uid bang?
 order,minta format ordernya min
 order,cara belinya gimana ya?

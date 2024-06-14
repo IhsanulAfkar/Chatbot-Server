@@ -26,7 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 chatbot_model_py/
-idwiki*.txt
+embedding.model
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -36,7 +36,7 @@ idwiki*.txt
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-
+chatlog.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
