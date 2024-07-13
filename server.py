@@ -22,6 +22,8 @@ def generate_response(text):
     pred = model.predict(vec)
     y_pred = np.argmax(pred, axis=-1)
     conf = np.max(pred)
+    with open('respose_flow.txt', 'a') as file:
+        file.write(f'\n{text}, {tokenize_text}, {sequences}, {vec}, {y_pred}, ({labels[y_pred[0]]},{conf})')
     return labels[y_pred[0]], conf
 
 
