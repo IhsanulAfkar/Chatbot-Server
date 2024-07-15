@@ -6,6 +6,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from nltk_utils import Helper
 import pandas as pd
 import time
+from datetime import datetime
 app = Flask(__name__)
 helper = Helper()
 model = tf.keras.models.load_model('chatbot_model.h5')
@@ -31,10 +32,10 @@ def generate_response(text):
 @app.route('/chat', methods=['POST'])
 def chat():
     input_text = request.json.get('text', '')
-    start_time = time.time()
+    start_time = datetime.fromtimestamp(time.time())
     response, confidence = generate_response(input_text)
     with open('chat_time.txt', 'a') as file:
-        file.write(f'\n{input_text},{response},{confidence},{start_time},{time.time()}')
+        file.write(f'\n{input_text},{response},{confidence},{start_time},{datetime.fromtimestamp(time.time())}')
     return jsonify({'intent': response,"confidence": float(confidence)})
 
 if __name__ == '__main__':
